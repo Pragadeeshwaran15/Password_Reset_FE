@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      
+      {
+        "source": "/api/(.*)",
+        "destination": "https://password-reset-be-6r6g.onrender.com/api/$1"
+      }
+    ]
+  }
+  
